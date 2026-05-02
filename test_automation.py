@@ -9,7 +9,7 @@ import openpyxl
 from openpyxl.cell.cell import MergedCell
 
 # Configuration
-ROOT_DIR = Path(__file__).resolve().parent.parent
+ROOT_DIR = Path(__file__).resolve().parent
 TESTS_DIR = ROOT_DIR / "test_automation"
 
 DEFAULT_EXCEL_CANDIDATES = [
