@@ -1,7 +1,7 @@
 # Transliteration Accuracy Testing (Singlish to Sinhala)
 
 ## Project Overview & Objective
-This project is an automated testing suite developed for ITPM Assignment 1. The primary objective is to test the 'Chat Sinhala' transliteration function on [Pixels Suite Chat Translator](https://www.pixelssuite.com/chat-translator) by automating English/Singlish to Sinhala character conversions and verifying their accuracy against an expected outcome. Through this automation process, the suite successfully identifies 50 failed test cases to evaluate and highlight inaccuracies in the transliteration engine. 
+This project is an automated testing suite developed for ITPM Assignment 1. The primary objective is to test the 'Chat Sinhala' transliteration function on [Pixels Suite Chat Translator](https://www.pixelssuite.com/chat-translator) by automating English/Singlish to Sinhala character conversions and verifying their accuracy against an expected outcome. Through this automation process, the suite successfully identifies 51 failed test cases (out of 52 total test cases) to evaluate and highlight inaccuracies in the transliteration engine. 
 
 ## Prerequisites
 Before executing the automation script, assure that your system meets the following requirements:
